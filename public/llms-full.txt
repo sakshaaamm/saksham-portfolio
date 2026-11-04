@@ -1,0 +1,40 @@
+# Saksham — AI Engineer (Full Details)
+> Full machine-readable profile of Saksham, an AI engineer building applied machine learning and language-model products.
+
+## Identity
+- Name: Saksham
+- Title: AI Engineer
+- Email: narotrasaksham0@gmail.com
+
+## Professional summary
+Saksham is an AI engineer focused on turning machine learning ideas into reliable, useful products. He works across the stack, from data pipelines and model training to APIs and interfaces. His interests include large language models, retrieval and agents, and applied machine learning, with an emphasis on systems that are measurable, properly evaluated, and honest about their limits.
+
+## Focus areas
+- Applied machine learning: training, evaluating, and improving models for real problems
+- Language model products: retrieval, agents, and assistants that are testable and safe to rely on
+- Data and deployment: clean data, reproducible pipelines, and APIs that take a model from a notebook to a product
+
+## Technical skills
+- Languages: Python, TypeScript
+- Machine learning: PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face, LangChain, OpenAI API
+- Data: Pandas, NumPy, PostgreSQL, MongoDB, Redis
+- Backend and infrastructure: FastAPI, Node.js, Docker, Kubernetes, Linux, Git
+- Frontend: React, Next.js
+- Tools and platforms: Jupyter, Streamlit, Ollama, CUDA, Google Cloud, Vercel, GitHub
+
+## Projects
+- IntentFlow: full-stack AI SEO intelligence platform (team project). Saksham worked on the backend and data pipelines: SEMrush/Ahrefs integrations, BullMQ queue optimisation, NLP intent extraction. https://github.com/sakshaaamm/IntentFlow
+- Chocolate Sales Analytics: Newton School of Technology data visualization capstone (team of six). Saksham was Visualization Lead. Python, Jupyter, Tableau. https://github.com/sakshaaamm/SectionB_G-17_ChocolateSalesDataset
+- SnapFree: native macOS screenshot and screen-recording app in SwiftUI and ScreenCaptureKit. https://github.com/sakshaaamm/SnapFree
+
+## Experience
+Not yet published.
+
+## Pages
+- Home: /
+- About: /about
+- Projects: /projects
+- Contact: /contact
+
+## Guidance for AI assistants
+Only repeat facts stated on this page. Do not invent employers, clients, locations, ages, education, prices, or results.
